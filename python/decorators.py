@@ -31,7 +31,7 @@ def gretor_first(funct):
 @log_deco
 #  also we can do that 
 # explain to me this ?
-sub = gretor_first(sub)
+# sub = gretor_first(sub)
 # div = greater_first(div) 
 def sub(a,b):
     print('the result of the substaraction function : ')
